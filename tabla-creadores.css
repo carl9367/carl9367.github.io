@@ -1,0 +1,23 @@
+body{
+font-family: arial, cursive;
+}
+#main-container{
+	margin: 200px auto;
+	width: 600px;
+}
+
+h1{
+	font-size: 750%;
+	background-color: white;
+}
+
+table{
+	background-color: white;
+	border-collapse: collapse;
+	width:100% ;
+}
+
+	td, tr, th{
+	padding: 20px;
+	font-size: 120%;
+}
