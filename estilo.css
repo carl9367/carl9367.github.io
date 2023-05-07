@@ -1,0 +1,41 @@
+body{
+font-family: arial, helvetica;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    margin: 40px 10px;
+}
+.menu{
+	list-style: none;
+	padding: 0;
+	background: #004B97;
+	width: 90%;
+	max-width: 1000px;
+	margin: auto;
+}
+
+.menu li a{
+text-decoration: none;
+color: white;
+padding: 20px;
+display: block;
+}
+
+.menu li{
+display: inline-block;
+text-align: center;
+}
+
+.menu li a:hover{
+	background: #000093;
+}
+
+#footer{
+background-color: #292c44;
+bottom: 0;
+width: 100%;
+height: 40px;
+color: white;
+}
